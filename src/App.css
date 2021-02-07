@@ -1,0 +1,37 @@
+.App {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+select,
+input {
+  border: 1px solid #333;
+  padding: 10px;
+  border-radius: 0;
+  margin: 3px;
+}
+
+input[type="submit"] {
+  background-color: cornflowerblue;
+  color: #fff;
+  cursor: pointer;
+}
+
+input[type="reset"] {
+  cursor: pointer;
+}
+
+.container {
+  min-height: 1px;
+  overflow: auto;
+}
+
+.column-50 {
+  width: 50%;
+  float: left;
+}
+
+.text-right {
+  text-align: right;
+}
