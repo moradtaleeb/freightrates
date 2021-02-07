@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# FreightRates
+
+A simple app that let you search for freight rates, and sort them either by price, duration or pickup date.
+
+## Live Demo
+
+Deployed to heroku, check it out here:
+[https://freightrates.herokuapp.com/](https://freightrates.herokuapp.com/)
+
+## Technologies
+
+- Nodejs 14.15.0
+- Reactjs 17.0.1
+- Typescript 4.x
+- Jest
+- yarn 1.21.1
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
