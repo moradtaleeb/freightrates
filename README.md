@@ -2,6 +2,9 @@
 
 A simple app that let you search for freight rates, and sort them either by price, duration or pickup date.
 
+You can find mockups of this app in the root directory of this repository named **mockups.pdf**
+The first page is the initial mockup idea, and the second is the enhanced one.
+
 ## Live Demo
 
 Deployed to heroku, check it out here:
