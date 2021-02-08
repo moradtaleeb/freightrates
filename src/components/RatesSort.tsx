@@ -1,7 +1,7 @@
 import React, { ReactElement } from 'react';
 
 interface SortProps {
-    sortRates: any,
+    sortRates: (value: string) => void,
 }
 
 const RatesSort: React.FunctionComponent<SortProps> = (props: SortProps): ReactElement => {

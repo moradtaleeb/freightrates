@@ -2,7 +2,7 @@ import React, { ReactElement } from 'react';
 import { freightModes } from '../consts/data';
 
 interface SearchProps {
-    searchRates: any,
+    searchRates: (searchBy: string, searchValue: string) => void,
 }
 
 const RatesSearch: React.FunctionComponent<SearchProps> = (props: SearchProps): ReactElement => {
