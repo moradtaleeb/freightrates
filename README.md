@@ -26,6 +26,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+If this is your first time cloning the code, you need to run `yarn install` before starting the project.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
